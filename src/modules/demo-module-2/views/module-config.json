@@ -1,0 +1,18 @@
+{
+    "module": "demo-module-2",
+    "page": "demo-page-2",
+    "type": "page",
+    "description": "",
+    "version": "0.0.1",
+    "author": "",
+    "contributors": [
+        {
+            "name": "",
+            "email": ""
+        }
+    ],
+    "spriteDeps": [],
+    "widgetDeps": [],
+    "libDeps": [],
+    "cssDeps": []
+}

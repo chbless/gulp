@@ -1,0 +1,17 @@
+{
+    "name": "kfz-demo",
+    "type": "lib",
+    "description": "",
+    "version": "0.0.1",
+    "author": "",
+    "contributors": [
+        {
+            "name": "",
+            "email": ""
+        }
+    ],
+    "spriteDeps": [],
+    "widgetDeps": [],
+    "libDeps": [],
+    "cssDeps": []
+}

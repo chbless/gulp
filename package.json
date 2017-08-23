@@ -1,0 +1,19 @@
+{
+  "name": "kfz-project-tpl",
+  "version": "1.0.0",
+  "description": "孔网项目模板",
+  "main": "index.js",
+  "scripts": {
+    "module-init": "node ./gulp/cli/module-init.js",
+    "lib-init": "node ./gulp/cli/lib-init.js"
+  },
+  "keywords": [
+    "项目模板"
+  ],
+  "author": "chenhui",
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-load-plugins": "^1.5.0"
+  }
+}
